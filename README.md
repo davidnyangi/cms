@@ -12,3 +12,6 @@ Graphical Reports</br>
 Export registered members to Excel Formats</br>
 Update other parameters</br>
 
+![Graphical Report](cims.jpeg)
+![Add member](cims2.jpeg)
+![Report Summary](cims3.jpeg)
